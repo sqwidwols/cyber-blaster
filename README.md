@@ -7,8 +7,7 @@ A neon-styled browser shooter built with HTML, CSS, and vanilla JavaScript.
 Open `index.html` in a browser, or run a local static server:
 
 ```bash
-cd C:\Users\natha\Documents\cyber-blaster-hackclub
-python -m http.server 8000
+
 ```
 
 Then visit:
