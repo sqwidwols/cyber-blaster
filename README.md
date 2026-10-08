@@ -28,3 +28,8 @@ Defend yourself against incoming drones, survive increasing waves, collect power
 ## GitHub Pages demo
 
 After pushing this repo to GitHub, enable GitHub Pages from the repository settings and use the generated Pages URL as the public demo link.
+
+
+this is the demo if you dont want to do all the hard work above
+
+'https://sqwidwols.github.io/cyber-blaster/'
